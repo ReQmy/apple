@@ -4,6 +4,8 @@
 	margin: 0;
 	padding: 0;
 
+	width: 95vw;
+
 	box-sizing: border-box;
 
 	font-family: 'Roboto', sans-serif;
@@ -17,7 +19,6 @@
 
 .bg {
 	height: 100vh;
-	width: 99vw;
 }
 
 .bgs :nth-child(1) {
@@ -45,7 +46,6 @@
 	font-size: 25vw;
 
 	height: 100vh;
-	width: 99vw;
 
 	background: white;
 	color: black;
